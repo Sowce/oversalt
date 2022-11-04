@@ -1,0 +1,192 @@
+{
+	"heroes": [
+		{
+			"name": "D.VA",
+			"heroIcon": "DVA.png",
+			"heroPortrait": "DVA.png",
+			"role": "tank",
+			"lineOne": "IM #1",
+			"lineTwo": "GG EZ",
+			"lineThree": "IS THIS EASY MODE ?",
+			"lineFour": "N-E-R-F T-H-I-S"
+		},
+		{
+			"name": "ORISA",
+			"heroIcon": "ORISA.png",
+			"heroPortrait": "ORISA.png",
+			"role": "tank",
+			"lineOne": "I HAVE A BAD FEELIN ABOUT THIS",
+			"lineTwo": "D'YOU NEED A HUG",
+			"lineThree": false,
+			"lineFour": false
+		},
+		{
+			"name": "REINHARDT",
+			"heroIcon": "REINHARDT.png",
+			"heroPortrait": "REIN.png",
+			"role": "tank",
+			"lineOne": "🍺!",
+			"lineTwo": "🍺!",
+			"lineThree": "🍺!",
+			"lineFour": "🍺!"
+		},
+		{
+			"name": "ROADHOG",
+			"heroIcon": "ROADHOG.png",
+			"heroPortrait": "ROADHOG.png",
+			"role": "tank",
+			"lineOne": "YOU WANT SOME CANDY ?",
+			"lineTwo": "VIOLENCE IS USUALLY THE ANSWER",
+			"lineThree": "SAY BEACON ONE MORE TIME",
+			"lineFour": "i have your present right here"
+		},
+		{
+			"name": "WINSTON",
+			"heroIcon": "WINSTON.png",
+			"heroPortrait": "WINSTON.png",
+			"role": "tank"
+		},
+		{
+			"name": "HAMMOND",
+			"heroIcon": "HAMMOND.png",
+			"heroPortrait": "HAMMOND.png",
+			"role": "tank"
+		},
+		{
+			"name": "ZARYA",
+			"heroIcon": "ZARYA.png",
+			"heroPortrait": "ZARYA.png",
+			"role": "tank"
+		},
+		{
+			"name": "BASTION",
+			"heroIcon": "BASTION.png",
+			"heroPortrait": "BASTION.png",
+			"role": "dps"
+		},
+		{
+			"name": "DOOMFIST",
+			"heroIcon": "DOOMFIST.png",
+			"heroPortrait": "DOOMFIST.png",
+			"role": "dps"
+		},
+		{
+			"name": "GENJI",
+			"heroIcon": "GENJI.png",
+			"heroPortrait": "GENJI.png",
+			"role": "dps",
+			"lineOne": "MADA MADA",
+			"lineTwo": "I NEED HEALING",
+			"lineThree": "ANGELA !"
+		},
+		{
+			"name": "HANZO",
+			"heroIcon": "HANZO.png",
+			"heroPortrait": "HANZO.png",
+			"role": "dps"
+		},
+		{
+			"name": "JUNKRAT",
+			"heroIcon": "JUNKRAT.png",
+			"heroPortrait": "JUNKRAT.png",
+			"role": "dps"
+		},
+		{
+			"name": "MCREE",
+			"heroIcon": "MCREE.png",
+			"heroPortrait": "MCREE.png",
+			"role": "dps"
+		},
+		{
+			"name": "MEI",
+			"heroIcon": "MEI.png",
+			"heroPortrait": "MEI.png",
+			"role": "dps"
+		},
+		{
+			"name": "PHARAH",
+			"heroIcon": "PHARAH.png",
+			"heroPortrait": "PHARAH.png",
+			"role": "dps"
+		},
+		{
+			"name": "REAPER",
+			"heroIcon": "REAPER.png",
+			"heroPortrait": "REAPER.png",
+			"role": "dps"
+		},
+		{
+			"name": "SOLDIER: 76",
+			"heroIcon": "SOLDIER.png",
+			"heroPortrait": "SOLDIER.png",
+			"role": "dps"
+		},
+		{
+			"name": "SOMBRA",
+			"heroIcon": "SOMBRA.png",
+			"heroPortrait": "SOMBRA.png",
+			"role": "dps"
+		},
+		{
+			"name": "SYMMETRA",
+			"heroIcon": "SYM.png",
+			"heroPortrait": "SYM.png",
+			"role": "dps"
+		},
+		{
+			"name": "TORBJÖRN",
+			"heroIcon": "TORB.png",
+			"heroPortrait": "TORB.png",
+			"role": "dps"
+		},
+		{
+			"name": "TRACER",
+			"heroIcon": "TRACER.png",
+			"heroPortrait": "TRACER.png",
+			"role": "dps"
+		},
+		{
+			"name": "WIDOWMAKER",
+			"heroIcon": "WIDOW.png",
+			"heroPortrait": "WIDOW.png",
+			"role": "dps"
+		},
+		{
+			"name": "ANA",
+			"heroIcon": "ANA.png",
+			"heroPortrait": "ANA.png",
+			"role": "heal",
+			"lineOne": "SLEEP TIME"
+		},
+		{
+			"name": "BRIGITTE",
+			"heroIcon": "BRIGITTE.png",
+			"heroPortrait": "BRIGITTE.png",
+			"role": "heal"
+		},
+		{
+			"name": "LUCIO",
+			"heroIcon": "LUCIO.png",
+			"heroPortrait": "LUCIO.png",
+			"role": "heal"
+		},
+		{
+			"name": "MERCY",
+			"heroIcon": "MERCY.png",
+			"heroPortrait": "MERCY.png",
+			"role": "heal"
+		},
+		{
+			"name": "MOIRA",
+			"heroIcon": "MOIRA.png",
+			"heroPortrait": "MOIRA.png",
+			"role": "heal"
+		},
+		{
+			"name": "ZENYATTA",
+			"heroIcon": "ZEN.png",
+			"heroPortrait": "ZEN.png",
+			"role": "heal"
+		}
+	]
+}
